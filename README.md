@@ -19,5 +19,5 @@ Visit my blogpost @ http://xbfish.com/2012/08/21/syntax-list-for-syntax-highligh
 
 
 ### Credits ###
-Syntax Highlighter Author: Alex Gorbatchev
+Syntax Highlighter Author: Alex Gorbatchev <br />
 Original WordPress plugin Author: Okamoto Wataru
