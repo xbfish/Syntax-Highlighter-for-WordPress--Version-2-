@@ -2,7 +2,7 @@
 /*
 Plugin Name: Syntax Highlighter for WordPress (Version 2)
 Plugin URI: http://wordpress.org/extend/plugins/syntax-highlighter/
-Description: 100% JavaScript syntax highlighter This plugin makes using the <a href="http://alexgorbatchev.com/SyntaxHighlighter">Syntax highlighter</a> to highlight code snippets within WordPress simple. Supports Bash, C++, C#, CSS, Delphi, Java, JavaScript, PHP, Python, Ruby, SQL, VB, VB.NET, XML, and (X)HTML. Original author of this plugin is wokamoto (http://dogmap.jp/) & Plugin site is pointed to the original version. This version removes the question mark on the top right hand corner of the code snippet and its vertical scrollbar. 
+Description: 100% JavaScript syntax highlighter This plugin makes using the <a href="http://alexgorbatchev.com/SyntaxHighlighter">Syntax highlighter</a> to highlight code snippets within WordPress simple. Supports Bash, C++, C#, CSS, Delphi, Java, JavaScript, PHP, Python, Ruby, SQL, VB, VB.NET, XML, and (X)HTML. Original author of this plugin is by Okamoto (http://dogmap.jp/) & Plugin site is pointed to the original version. This version removes the question mark on the top right hand corner of the code snippet and its vertical scrollbar. 
 Author: Willie Fang
 Author URI: http://xbfish.com/
 Text Domain: Syntax-Highlighter-for-WordPress--Version-2-
